@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
@@ -21,7 +21,7 @@
         <java.version>1.8</java.version>
         <lombok.version>1.18.10</lombok.version>
         <rest.assured.version>4.1.2</rest.assured.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.1.210</h2.version>
         <mybatis.plus.version>3.2.0</mybatis.plus.version>
         <flyway.version>6.1.0</flyway.version>
     </properties>
