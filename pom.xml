@@ -21,7 +21,7 @@
         <java.version>1.8</java.version>
         <lombok.version>1.18.22</lombok.version>
         <rest.assured.version>4.5.1</rest.assured.version>
-        <h2.version>2.1.210</h2.version>
+        <h2.version>2.2.220</h2.version>
         <mybatis.plus.version>3.5.1</mybatis.plus.version>
         <flyway.version>8.5.2</flyway.version>
         <junit.version>4.13.2</junit.version>
